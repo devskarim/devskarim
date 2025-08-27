@@ -1,22 +1,26 @@
-<!-- 🌌 Ultra Premium GitHub README -->
-
-<h1 align="center">⚡ KARIMOV — Full-Stack | AI | Creative Developer ⚡</h1>
+<!-- 🚀 Ultra Premium README -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
+  <img src="https://i.ibb.co/FHtG9wG/banner-dark.gif" alt="banner" width="100%" />
 </p>
 
+<h1 align="center">🔥 Assalomu alaykum, men KARIMOV — Premium Developer 🚀</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Dasturchi+🚀;AI+va+Kompyuter+Koʻrish+Mutaxassisi+🤖;3D+Web+%7C+Ijodiy+Kodlash+🎨;Toza+kod+%7C+Premium+dizayn+✨" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Dasturchi;AI+%26+Kompyuter+Ko‘rish+Mutaxassisi;3D+Web+%7C+Ijodiy+Kodlash;Premium+UI%2FUX+Yarataman" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌌 Men haqimda
-💎 **Ijodiy va zamonaviy dasturchi**  
-🔥 Asosiy yo‘nalishim — **AI, Kompyuter Ko‘rish, Full-Stack Web va 3D loyihalar**  
-🚀 Har doim **toza kod, kuchli funksionallik va premium dizayn** tarafdoriman  
-🌍 Shiorim: *"Kelajakni bugun qur"*  
+## 👨‍💻 Men haqimda
+💎 Men **premium darajadagi dasturchiman**.  
+🚀 Asosiy yo‘nalishlarim: **Full-Stack Web**, **AI & Computer Vision**, **3D Web**.  
+🎨 Har bir loyihamda **toza kod + mukammal dizayn** tamoyiliga amal qilaman.  
+🌍 Shiorim: *"Kelajakni bugun kodla."*  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
 
 ---
 
@@ -28,18 +32,18 @@
 ---
 
 ## 📂 Asosiy loyihalarim
-- 🎨 **Interaktiv 3D Portfolio** → Bruno Simon uslubida, premium animatsiyalar  
-- 📚 **Onlayn Kitob Do‘koni** → CRUD tizimi + sharhlar bo‘limi  
-- 🤖 **AI Vision Model** → Odam, hayvon va obyektlarni aniqlash + yosh va hissiyot taxmini  
-- ⚡ **Moliya API Tizimi** → Xavfsizlik va yuqori tezlikka mos keluvchi platforma  
+- 🎨 **3D Portfolio** → Neon-style, WebGL animatsiyali interaktiv sayt  
+- 📚 **Onlayn Kitob Do‘koni** → CRUD + sharhlar bo‘limi, mukammal UI/UX  
+- 🤖 **AI Vision Model** → Odam, hayvon va obyektlarni aniqlash + yosh & hissiyotlar  
+- ⚡ **Moliya API** → Xavfsiz, tezkor va enterprise darajali tizim  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Projects Animation"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 </p>
 
 ---
 
-## 📊 GitHub statistikasi
+## 📊 GitHub Statistikasi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="180"/>
@@ -48,10 +52,10 @@
 ---
 
 ## 🏆 Yutuqlarim
-- 🚀 **10+ to‘liq Full-Stack loyihalar** ishlab chiqqanman  
-- ⚡ **Xavfsiz API va premium dizaynli web platformalar** yaratganman  
-- 🎯 **AI va 3D Web** sohalarida tajribaga ega  
-- 🤝 **Ochiq manba (open-source)** loyihalarda ham ishtirok etganman  
+- 🚀 **10+ katta hajmli loyihalar** ishlab chiqqanman  
+- ⚡ **API & Full-Stack platformalar** yaratganman  
+- 🎯 **AI va 3D Web** bo‘yicha kuchli tajriba  
+- 🤝 **Ochiq manba loyihalarida** ishtirok etganman  
 
 ---
 
@@ -65,5 +69,5 @@
 
 ---
 
-<h3 align="center">✨ "Kod bilan yarating. Dizayn bilan ilhomlantiring. Kelajakni quring." ✨</h3>
-<p align="center">🔥 Powered by <b>KARIMOV</b> — Premium Developer 🚀</p>
+<h3 align="center">✨ "Kod bilan sanʼat yarating, dizayn bilan ilhomlantiring." ✨</h3>
+<p align="center">🔥 Powered by <b>KARIMOV</b> — Ultra Premium Developer 🚀</p>
