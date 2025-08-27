@@ -1,104 +1,166 @@
-# Hi there, I'm Karimov 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;Data+Analyst;Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Karimov&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20Problem%20Solver&descAlignY=51&descAlign=62" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devskarim&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/devskarim?style=flat-square&color=blue" />
-  <img src="https://img.shields.io/badge/Focus-Python%20Development-brightgreen" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🐍+Python+Developer;📊+Data+Science+Enthusiast;🌐+Web+Development;🚀+Always+Learning" alt="Typing Animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b823c97e.gif" width="400" alt="coding gif"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=devskarim&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/followers/devskarim?style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/stars/devskarim?style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ## 🚀 About Me
 
-```javascript
-const developer = {
-    name: "Karimov",
-    role: "Python Developer",
-    location: "Tashkent, Uzbekistan",
-    workingOn: "Data analysis and web development projects",
-    currentlyLearning: ["Advanced Python", "Django", "Data Science"],
-    askMeAbout: ["Python", "Django", "Data Analysis", "Linux"],
-    funFact: "I love turning data into insights! 📊"
-};
+<img align="right" alt="Coding Gif" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```python
+class KarimovDev:
+    def __init__(self):
+        self.name = "Karimov"
+        self.role = "Python Developer & Data Analyst" 
+        self.location = "Tashkent, Uzbekistan 🇺🇿"
+        self.languages = ["Python", "HTML", "CSS"]
+        self.frameworks = ["Django", "Bootstrap"]
+        self.databases = ["MongoDB", "PostgreSQL", "SQLite"]
+        self.tools = ["NumPy", "Pandas", "Linux"]
+        self.current_focus = "Building data-driven solutions"
+        self.fun_fact = "I turn coffee into code and data into insights! ☕️"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
+
+me = KarimovDev()
+me.say_hi()
 ```
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 🎯 Current Focus
-- 🔭 Working on **data analysis and web development projects**
-- 🌱 Learning **advanced Django and data science**
-- 👯 Looking to collaborate on **Python projects**
-- 💬 Ask me about **Python, Django, Data Analysis**
-- 📫 Reach me at **devizzatillo@gmail.com**
-- 📱 Telegram: **@krmv772**
-- ⚡ Fun fact: **Python + Data = Magic ✨**
 
 <br clear="both">
 
-## 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 💫 What I'm Up To
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+        <br><strong>🔭 Currently Working On</strong>
+        <br>Data analysis & Django projects
+      </td>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+        <br><strong>🌱 Learning</strong>
+        <br>Advanced Python & Data Science
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+        <br><strong>👯 Collaboration</strong>
+        <br>Open to Python projects
+      </td>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+        <br><strong>💬 Ask Me About</strong>
+        <br>Python, Django, Data Analysis
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Programming Languages
 
-### 🎨 Frontend Development
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
+</div>
 
-### ⚙️ Backend & Frameworks
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> Frameworks & Libraries
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />
+</div>
 
-### 📊 Data Analysis & Science
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"> Databases
 
-### 🐧 Operating Systems
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite" />
+</div>
 
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> Tools & OS
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" />
+</div>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devskarim&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devskarim&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" height="200" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devskarim&langs_count=8&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb&layout=compact" height="200" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devskarim&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devskarim&theme=react&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&border=61dafb&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakNum=61dafb&sideNums=61dafb&currStreakLabel=61dafb&sideLabels=61dafb&dates=61dafb&background=0D1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devskarim&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=73daca&point=f9e2af&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devskarim&custom_title=Karimov's%20Contribution%20Graph&bg_color=0D1117&color=61dafb&line=61dafb&point=61dafb&area_color=61dafb&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devskarim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devskarim&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4" />
 </div>
 
-## 🔥 Streak Stats & Contribution Graph
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -108,55 +170,93 @@ const developer = {
   </picture>
 </div>
 
-## 💼 Featured Projects
-
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devskarim&repo=project1&theme=tokyonight)](https://github.com/devskarim/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devskarim&repo=project2&theme=tokyonight)](https://github.com/devskarim/project2)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_user&unique={true|1|on|yes}" />
-</div>
-
-## 📈 Productivity Stats
-
-<!--START_SECTION:waka-->
-```text
-Python       15 hrs 30 mins  ████████████████░░░░░░░░░   65.2%
-HTML         4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.3%
-CSS          2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   11.6%
-Django       1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    4.9%
-```
-<!--END_SECTION:waka-->
-
-## 🤝 Connect with Me
+## 📈 Coding Activity
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devizzatillo@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krmv772)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devskarim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karimov)
+<!--START_SECTION:waka-->
+```text
+🐍 Python       15 hrs 30 mins  ████████████████▒░░░░   65.2% 
+🌐 HTML          4 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░   18.3% 
+🎨 CSS           2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░   11.6% 
+⚡ Django        1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░    4.9% 
+```
+<!--END_SECTION:waka-->
 
 </div>
 
-## 💡 Random Developer Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
----
+## 💼 Featured Projects
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devskarim&repo=data-analysis-project&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117)](https://github.com/devskarim/data-analysis-project)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devskarim&repo=django-web-app&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117)](https://github.com/devskarim/django-web-app)
+
 </div>
 
 <div align="center">
-  <h3>⭐ Show some love by starring some repositories! ⭐</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:devizzatillo@gmail.com">
+          <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" alt="Email"/>
+          <br><strong>Email</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://t.me/krmv772">
+          <img src="https://user-images.githubusercontent.com/74038190/235294560-208b2600-b0c0-4d49-b6e0-0c56af9a4de5.gif" width="80" alt="Telegram"/>
+          <br><strong>Telegram</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/devskarim">
+          <img src="https://user-images.githubusercontent.com/74038190/235294547-bbe3be3a-af22-4b6c-b09f-e85cb8be6d86.gif" width="80" alt="GitHub"/>
+          <br><strong>GitHub</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://linkedin.com/in/karimov">
+          <img src="https://user-images.githubusercontent.com/74038190/235294555-aeff3103-7397-4f59-b98c-e19b2e4f6008.gif" width="80" alt="LinkedIn"/>
+          <br><strong>LinkedIn</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=65" />
+</div>
+
+<div align="center">
+  <h2>🌟 Show some ❤️ by starring some repositories! 🌟</h2>
 </div>
