@@ -18,7 +18,6 @@
   <!-- Profile Views Counter -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=devskarim&style=for-the-badge&color=667eea&label=👀+PROFILE+VIEWS" alt="Profile Views Counter" />
-    <img src="https://img.shields.io/github/followers/devskarim?style=for-the-badge&color=f093fb&logo=github&logoColor=white&label=👥+FOLLOWERS" alt="GitHub Followers" />
   </p>
 
 </div>
