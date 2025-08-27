@@ -1,7 +1,8 @@
-<!-- README.md - Elegant & Premium Profile for devskarim -->
+<!-- README.md - Premium & Working Profile for devskarim -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Assalomu+alaykum!;Men+Karimov+(devskarim);Full+Stack+Developer;Backend+%7C+AI%2FML+Learner;Open+Source+Contributor" alt="Typing Animation" />
+  <!-- Typing animation intro -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Assalomu+alaykum!;Men+Karimov+(devskarim);Full+Stack+Developer;Backend+%7C+AI%2FML+Learner;Open+Source+Contributor" alt="Typing Animation" />
 </p>
 
 ---
@@ -18,8 +19,8 @@
 ## ✨ About Me
 - 🔭 Backend va API tizimlarida ishlab chiqaman  
 - 🌱 Hozirda o‘rganayapman: **Cloud, System Design, AI/ML**  
-- ⚡ Men uchun eng muhimi: **Clean code, Open-source, va Continuous Learning**  
-- 🎯 Maqsad: **dunyo bo‘yicha professional dasturchi sifatida tanilish**  
+- ⚡ Men uchun eng muhimi: **Clean code, Open-source, Continuous Learning**  
+- 🎯 Maqsad: **professional & impactful software engineer**
 
 ---
 
@@ -32,35 +33,37 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devskarim&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=radical&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devskarim&layout=compact&theme=radical&hide_border=false" height="180" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Streak (Working)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devskarim&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=devskarim&theme=radical&hide_border=false" alt="Contribution Streak" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements (Working)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devskarim&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devskarim&theme=radical&no-bg=false&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-## 🚀 Highlighted Projects
-| Project | Description |
-|---------|-------------|
-| [E-Commerce API](https://github.com/devskarim/ecommerce-api) | Scalable backend API with Django & DRF |
-| [Portfolio Website](https://github.com/devskarim/portfolio) | Personal website with React + Tailwind |
-| [AI Tools](https://github.com/devskarim/ai-tools) | Collection of ML/AI scripts & models |
+## 🖼 Portfolio / Highlights
+<p align="center">
+  <img src="https://via.placeholder.com/300x180?text=Project+1" alt="Project 1" style="margin:5px;border-radius:8px;" />
+  <img src="https://via.placeholder.com/300x180?text=Project+2" alt="Project 2" style="margin:5px;border-radius:8px;" />
+  <img src="https://via.placeholder.com/300x180?text=Project+3" alt="Project 3" style="margin:5px;border-radius:8px;" />
+</p>
+
+> Bu yerga real loyihalaring rasmlarini qo‘yasan, GIF emas, shuning uchun professional va tez yuklanadi.
 
 ---
 
 <p align="center">
-  <sub>⭐ From <a href="https://github.com/devskarim">devskarim</a> | Made with ❤️ and clean code</sub>
+  <sub>⭐ From <a href="https://github.com/devskarim">devskarim</a> | Made with ❤️</sub>
 </p>
