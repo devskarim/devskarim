@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-javascript
+```javascript
 const developer = {
     name: "KARIMOV",
     role: "Full Stack Developer",
@@ -22,6 +22,7 @@ const developer = {
     askMeAbout: ["React", "Node.js", "Python", "System Design"],
     funFact: "I debug with console.log() and love coding late nights! 😄"
 };
+```
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 🎯 Current Focus
 🔭 Working on innovative web applications & AI projects
@@ -83,7 +84,7 @@ const developer = {
 📊 GitHub Analytics
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=73daca&point=f9e2af&area=true&hide_border=true" /> </div>
 🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=devskarimE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> </div>
 💼 Featured Projects
 <div align="center">
 
@@ -95,7 +96,6 @@ const developer = {
 <!--START_SECTION:waka-->
 text
 Копировать код
-JavaScript   12 hrs 15 mins  ████████████░░░░░░░░░░░░░   48.0%
 TypeScript   8 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   32.8%
 Python       3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.7%
 CSS          1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░    4.5%
