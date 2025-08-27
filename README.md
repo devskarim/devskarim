@@ -193,18 +193,6 @@ me.say_hi()
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 💼 Featured Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devskarim&repo=data-analysis-project&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117)](https://github.com/devskarim/data-analysis-project)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devskarim&repo=django-web-app&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117)](https://github.com/devskarim/django-web-app)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
 
 ## 🤝 Let's Connect
 
