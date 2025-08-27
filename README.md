@@ -32,10 +32,10 @@
 ---
 
 ## 📂 Loyihalarim
-✨ **3D Portfolio** → Neon-style, WebGL animatsiyali futuristik portfolio  
-✨ **Onlayn Kitob Do‘koni** → CRUD tizimi, foydalanuvchi sharhlari, mukammal UI/UX  
-✨ **AI Vision Model** → Odam, hayvon, obyektlarni aniqlash + yosh & hissiyotlar  
-✨ **Premium API** → Xavfsizlik va tezlik uchun enterprise darajali arxitektura  
+- 🎨 **3D Portfolio** → Neon-style, WebGL animatsiyali futuristik portfolio  
+- 📚 **Onlayn Kitob Do‘koni** → CRUD tizimi, foydalanuvchi sharhlari, mukammal UI/UX  
+- 🤖 **AI Vision Model** → Odam, hayvon, obyektlarni aniqlash + yosh & hissiyotlar  
+- ⚡ **Premium API** → Xavfsizlik va tezlik uchun enterprise darajali arxitektura  
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Projects"/>
@@ -45,9 +45,9 @@
 
 ## 📊 GitHub Statistikasi
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -70,5 +70,7 @@
 
 ---
 
-<h3 align="center">✨ "Kod sanʼatdir, dizayn ilhomdir, kelajak esa mening qo‘limda." ✨</h3>
-<p align="center">🔥 Powered by <b>KARIMOV</b> — Ultra Premium Developer 🚀</p>
+## 🔥 Footer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=100&section=footer&animation=fadeIn&fontColor=ffffff" />
+</p>
