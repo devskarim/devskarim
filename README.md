@@ -1,26 +1,24 @@
 <div align="center">
   
-  <!-- Professional Header Banner -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=45&duration=3000&pause=1000&color=2D3748&center=true&vCenter=true&width=600&height=70&lines=Izzatulloh+Karimov;Software+Developer" alt="Professional Header" />
-  </h1>
+  <!-- 3D Header Banner with Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Assalomu%20Alaykum!%20👋&desc=I'm%20Izzatulloh%20Karimov%20-%20Software%20Developer&descAlignY=75&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=twinkling&fontAlign=50&color=gradient&gradient=667eea,f093fb,764ba2" />
   
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Text&weight=400&size=20&duration=4000&pause=1500&color=667eea&center=true&vCenter=true&width=700&height=50&lines=Python+Developer+%7C+Backend+Engineer;Building+robust+and+scalable+solutions;Passionate+about+clean+code+and+best+practices" alt="Professional Subtitle" />
+  <!-- Single Clean Animation -->
+  <p align="center" style="margin-top: -30px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=2000&color=667eea&center=true&vCenter=true&width=800&height=60&lines=🐍+Python+Developer+%7C+Backend+Engineer;🚀+Building+scalable+and+robust+solutions;💡+Passionate+about+clean+code+and+innovation" alt="Professional Animation" />
   </p>
 
-  <!-- Professional Stats Bar -->
+  <!-- Modern 3D Stats Cards -->
   <p align="center">
-    <img src="https://img.shields.io/badge/📍_Location-Tashkent%2C+Uzbekistan-blue?style=flat-square&color=667eea" alt="Location" />
-    <img src="https://img.shields.io/badge/💼_Focus-Backend+Development-green?style=flat-square&color=28a745" alt="Focus" />
-    <img src="https://img.shields.io/badge/📚_Learning-FastAPI+%26+React-orange?style=flat-square&color=fd7e14" alt="Learning" />
-    <img src="https://img.shields.io/badge/🌱_Experience-Growing-purple?style=flat-square&color=6f42c1" alt="Experience" />
+    <img src="https://img.shields.io/badge/🌍_Tashkent%2C_Uzbekistan-667eea?style=for-the-badge&logo=location&logoColor=white&labelColor=2d3748" alt="Location" />
+    <img src="https://img.shields.io/badge/💼_Backend_Focus-28a745?style=for-the-badge&logo=server&logoColor=white&labelColor=2d3748" alt="Focus" />
+    <img src="https://img.shields.io/badge/🎯_FastAPI_&_React-fd7e14?style=for-the-badge&logo=learning&logoColor=white&labelColor=2d3748" alt="Learning" />
   </p>
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" />
 </div>
 
 ---
