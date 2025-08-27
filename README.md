@@ -1,73 +1,73 @@
-<!-- Ultra Premium GitHub README -->
+<!-- 🚀 Ultra Premium README -->
 
 <p align="center">
-  <img src="https://i.ibb.co/FHtG9wG/banner-dark.gif" alt="Banner" width="100%"/>
+  <img src="https://i.ibb.co/FHtG9wG/banner-dark.gif" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">⚡ Assalomu alaykum! Men KARIMOV — Premium Developer</h1>
+<h1 align="center">🔥 Assalomu alaykum, men KARIMOV — Premium Developer 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Dasturchi+|+AI+&+3D+Web+Mutaxassisi;Toza+Kod+|+Futuristik+Dizayn;Kelajakni+Bugun+Yarat" alt="Typing animation" />
-</p>
-
----
-
-##  Men haqimda
-- **Ijodiy Full-Stack dasturchi** — AI, Computer Vision va 3D Web yo‘nalishida ekspert.
-- Shiori: *"Kod — bu san’at, dizayn — ilhom, kelajak esa bizning qo‘limizda."*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgNU99pixXp8gbraOo/giphy.gif" width="500" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Dasturchi;AI+%26+Kompyuter+Ko‘rish+Mutaxassisi;3D+Web+%7C+Ijodiy+Kodlash;Premium+UI%2FUX+Yarataman" alt="Typing SVG" />
 </p>
 
 ---
 
-##  Foydalanadigan vositalar
+## 👨‍💻 Men haqimda
+💎 Men **premium darajadagi dasturchiman**.  
+🚀 Asosiy yo‘nalishlarim: **Full-Stack Web**, **AI & Computer Vision**, **3D Web**.  
+🎨 Har bir loyihamda **toza kod + mukammal dizayn** tamoyiliga amal qilaman.  
+🌍 Shiorim: *"Kelajakni bugun kodla."*  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,threejs,tailwind,django,fastapi,linux,git,github,docker,postgresql,figma" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
 
 ---
 
-##  Loyihalar portfeli
-- **3D Portfolio** — WebGL asosida Neon uslubida interaktiv sayt.
-- **Onlayn Kitob Do‘koni** — To‘liq CRUD, sharhlar, premium dizayn.
-- **AI Vision Model** — Odam, hayvon, obyektlarni aniqlash + yosh/hissiyot taxmini.
-- **Futuristik API Tizim** — Tezkor, xavfsiz va professional.
-
+## 🚀 Foydalanadigan vositalar
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qDN0AHeOxJ4b6li/giphy.gif" width="600" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,threejs,tailwind,django,flask,fastapi,linux,git,github,docker,mysql,postgresql,figma" />
 </p>
 
 ---
 
-##  GitHub Statistikasi
+## 📂 Asosiy loyihalarim
+- 🎨 **3D Portfolio** → Neon-style, WebGL animatsiyali interaktiv sayt  
+- 📚 **Onlayn Kitob Do‘koni** → CRUD + sharhlar bo‘limi, mukammal UI/UX  
+- 🤖 **AI Vision Model** → Odam, hayvon va obyektlarni aniqlash + yosh & hissiyotlar  
+- ⚡ **Moliya API** → Xavfsiz, tezkor va enterprise darajali tizim  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 </p>
 
 ---
 
-##  Yutuqlarim
-- **10+ to‘liq Full-Stack loyihalar** yaratganman.
-- AI va 3D Web yo‘nalishida professional tajribaga ega.
-- Ochiq manba loyihalarida hissa qo‘shgan.
+## 📊 GitHub Statistikasi
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="180"/>
+</p>
 
 ---
 
-##  Aloqa
+## 🏆 Yutuqlarim
+- 🚀 **10+ katta hajmli loyihalar** ishlab chiqqanman  
+- ⚡ **API & Full-Stack platformalar** yaratganman  
+- 🎯 **AI va 3D Web** bo‘yicha kuchli tajriba  
+- 🤝 **Ochiq manba loyihalarida** ishtirok etganman  
+
+---
+
+## 🌐 Bog‘lanish
 <p align="center">
   <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-Bogʻlanish-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-Manzil-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-Xabar-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Premium-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profil-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
-##  Footer (Custom)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA3,100:00D4FF&height=80&section=footer&animation=fadeIn&fontSize=20&fontColor=FFFFFF&text=Made+with+%E2%9D%A4+by+KARIMOV" />
-</p>
+<h3 align="center">✨ "Kod bilan sanʼat yarating, dizayn bilan ilhomlantiring." ✨</h3>
+<p align="center">🔥 Powered by <b>KARIMOV</b> — Ultra Premium Developer 🚀</p>
