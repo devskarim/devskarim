@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🐍+Python+Developer;📊+Data+Science+Enthusiast;🌐+Web+Development;🚀+Always+Learning" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🐍+Python+Developer;📊+Data+Science+Enthusiast;🌐+Web+Development;🚀+Always+Learning" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -32,10 +32,18 @@ class KarimovDev:
         self.name = "Karimov"
         self.role = "Python Developer & Data Analyst" 
         self.location = "Tashkent, Uzbekistan 🇺🇿"
-        self.languages = ["Python", "HTML", "CSS"]
-        self.frameworks = ["Django", "Bootstrap"]
-        self.databases = ["MongoDB", "PostgreSQL", "SQLite"]
-        self.tools = ["NumPy", "Pandas", "Linux"]
+        self.skills = {
+            "languages": ["Python"],
+            "frontend": {
+                "HTML": "90%",
+                "CSS": "80%", 
+                "Bootstrap": "50%"
+            },
+            "backend": ["Django"],
+            "databases": ["MongoDB", "PostgreSQL", "SQLite"],
+            "data_science": ["NumPy", "Pandas"],
+            "os": ["Linux"]
+        }
         self.current_focus = "Building data-driven solutions"
         self.fun_fact = "I turn coffee into code and data into insights! ☕️"
     
@@ -153,7 +161,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devskarim&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devskarim&theme=onestar&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 <div align="center">
@@ -163,12 +171,10 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devskarim/devskarim/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devskarim/devskarim/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devskarim/devskarim/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/devskarim/devskarim/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+**Note:** To enable the snake animation, you need to set up GitHub Actions in your profile repository. Create `.github/workflows/snake.yml` with the snake generation workflow.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -187,44 +193,39 @@ me.say_hi()
 ```
 <!--END_SECTION:waka-->
 
+### 💪 Skill Levels
+- **HTML:** 90% ████████████████████▓░░░░
+- **CSS:** 80% ████████████████████░░░░░
+- **Bootstrap:** 50% ████████████░░░░░░░░░░░░░░
+
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
+## 💼 Featured Projects
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devskarim&repo=data-analysis-project&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117)](https://github.com/devskarim/data-analysis-project)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devskarim&repo=django-web-app&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117)](https://github.com/devskarim/django-web-app)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ## 🤝 Let's Connect
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="mailto:devizzatillo@gmail.com">
-          <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" alt="Email"/>
-          <br><strong>Email</strong>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://t.me/krmv772">
-          <img src="https://user-images.githubusercontent.com/74038190/235294560-208b2600-b0c0-4d49-b6e0-0c56af9a4de5.gif" width="80" alt="Telegram"/>
-          <br><strong>Telegram</strong>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/devskarim">
-          <img src="https://user-images.githubusercontent.com/74038190/235294547-bbe3be3a-af22-4b6c-b09f-e85cb8be6d86.gif" width="80" alt="GitHub"/>
-          <br><strong>GitHub</strong>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://linkedin.com/in/karimov">
-          <img src="https://user-images.githubusercontent.com/74038190/235294555-aeff3103-7397-4f59-b98c-e19b2e4f6008.gif" width="80" alt="LinkedIn"/>
-          <br><strong>LinkedIn</strong>
-        </a>
-      </td>
-    </tr>
-  </table>
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devizzatillo@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krmv772)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devskarim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karimov)
+
 </div>
 
 <div align="center">
