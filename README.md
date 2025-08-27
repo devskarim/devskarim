@@ -1,7 +1,6 @@
 <!-- Futuristic DEV Banner -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=250&section=header&text=Assalomu%20alaykum!%20I'm%20Karimov👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-<h1 align="center">👋 Assalomu alaykum, I'm <span style="color:#00fff7;">KARIMOV</span></h1>
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Cyberpunk Coder</h3>
 
 ---
