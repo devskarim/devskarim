@@ -1,6 +1,8 @@
-<!-- CYBERPUNK BANNER -->
+<!-- CYBERPUNK PREMIUM README -->
+
+<!-- HERO / BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" style="border-radius:12px"/>
 </p>
 
 <h1 align="center">👾 Assalomu alaykum, I'm <span style="color:#00fff7;">KARIMOV</span> ⚡</h1>
@@ -9,12 +11,12 @@
 ---
 
 ## 🧑‍💻 About Me
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" style="border-radius:12px"/>
 
-- 🌌 Cyberpunk ruhidagi **Full Stack Dev**  
+- 🌌 Cyberpunk ruhidagi **Full Stack Developer**  
 - 🤖 AI, ML va Data tarafdori  
 - 🚀 Innovatsiyalar orqali kelajak quruvchi  
-- 🎯 Maqsadim: **global darajada ilovalar yaratish**
+- 🎯 Maqsadim: **global darajada ilovalar yaratish**  
 
 ---
 
@@ -44,17 +46,30 @@
 
 ---
 
+## 🖼 Portfolio / Highlights
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" alt="Project 1" width="280" style="margin:5px;border-radius:12px;"/>
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Project 2" width="280" style="margin:5px;border-radius:12px;"/>
+  <img src="https://media.giphy.com/media/3ohhwL9ZWBJZj6XyB6/giphy.gif" alt="Project 3" width="280" style="margin:5px;border-radius:12px;"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://t.me/yourusername"><img src="https://skillicons.dev/icons?i=telegram" width="50"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="https://t.me/krmv772"><img src="https://skillicons.dev/icons?i=telegram" width="50"/></a>
+  <a href="mailto:devizzatillo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
   <a href="https://github.com/devskarim"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
 </p>
 
 ---
 
-<!-- FUTURISTIC FOOTER -->
+<!-- FOOTER / FUTURISTIC -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" style="border-radius:12px"/>
+</p>
+
+<p align="center">
+  <sub>⭐ From <a href="https://github.com/devskarim">devskarim</a> | Made with ❤️ and ultra-premium Cyberpunk style</sub>
 </p>
