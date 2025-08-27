@@ -1,8 +1,13 @@
-<!-- README.md - Premium Animated GitHub Profile for devskarim -->
+<!-- README.md - Ultra Premium Animated GitHub Profile for devskarim -->
 
 <p align="center">
   <!-- Typing animation intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=👋+Assalomu+alaykum!;Men+Karimov+(devskarim);Full+Stack+Developer;Backend+%7C+AI%2FML+Learner;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=👋+Assalomu+alaykum!;Men+Karimov+(devskarim);Full+Stack+Developer;Backend+%7C+AI%2FML+Learner;Open+Source+Contributor" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <!-- Hero image -->
+  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?fit=crop&w=900&q=80" alt="Hero Image" width="700" style="border-radius:16px;" />
 </p>
 
 ---
@@ -20,7 +25,7 @@
 - 🔭 Backend va API tizimlarida ishlab chiqaman  
 - 🌱 Hozirda o‘rganayapman: **Cloud, System Design, AI/ML**  
 - ⚡ Men uchun eng muhimi: **Clean code, Open-source, Continuous Learning**  
-- 🎯 Maqsad: **Professional & impactful software engineer**
+- 🎯 Maqsad: **Professional & impactful software engineer**  
 
 ---
 
@@ -55,14 +60,22 @@
 
 ## 🖼 Portfolio / Highlights
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Project 1" width="280" style="margin:5px;border-radius:12px;" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Project 2" width="280" style="margin:5px;border-radius:12px;" />
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Project 3" width="280" style="margin:5px;border-radius:12px;" />
+  <img src="https://images.unsplash.com/photo-1581092335528-9931c95f0d15?fit=crop&w=300&q=80" alt="Project 1" style="margin:5px;border-radius:12px;" />
+  <img src="https://images.unsplash.com/photo-1612831660557-0ad68140f0d6?fit=crop&w=300&q=80" alt="Project 2" style="margin:5px;border-radius:12px;" />
+  <img src="https://images.unsplash.com/photo-1521790797524-b2497295b8a0?fit=crop&w=300&q=80" alt="Project 3" style="margin:5px;border-radius:12px;" />
 </p>
 
+---
+
+## 🚀 Featured Projects
+| Project | Description |
+|---------|-------------|
+| [E-Commerce API](https://github.com/devskarim/ecommerce-api) | Scalable backend API with Django & DRF |
+| [Portfolio Website](https://github.com/devskarim/portfolio) | Personal website with React + Tailwind |
+| [AI Tools](https://github.com/devskarim/ai-tools) | Collection of ML/AI scripts & models |
 
 ---
 
 <p align="center">
-  <sub>⭐ From <a href="https://github.com/devskarim">devskarim</a> | Made with ❤️ and premium design</sub>
+  <sub>⭐ From <a href="https://github.com/devskarim">devskarim</a> | Made with ❤️ and ultra-premium design</sub>
 </p>
