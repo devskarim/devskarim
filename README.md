@@ -168,7 +168,7 @@ frameworks = {
 ## **🏆 ACHIEVEMENTS & TROPHIES**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+  <img src="https://user-images.devskarimcontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 </div>
 
 <div align="center">
@@ -202,23 +202,6 @@ print("Progress: Learning every day! 📈")
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-## **🚀 FEATURED PROJECTS**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-  <img src="/images/JavaScript.jpg" width="80">
-</div>
-
-<div align="center">
-
-[![Python Learning](https://github-readme-stats.vercel.app/api/pin/?username=devskarim&repo=python-mastery&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88)](https://github.com/devskarim/python-mastery)
-[![Web App](https://github-readme-stats.vercel.app/api/pin/?username=devskarim&repo=django-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88)](https://github.com/devskarim/django-portfolio)
-
-[![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=devskarim&repo=data-visualization&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88)](https://github.com/devskarim/data-visualization)
-[![API Project](https://github-readme-stats.vercel.app/api/pin/?username=devskarim&repo=fastapi-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88)](https://github.com/devskarim/fastapi-backend)
-
-</div>
 
 ## **💡 CURRENT LEARNING PATH**
 
