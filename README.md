@@ -1,62 +1,57 @@
-<!-- README.md - Elegant & Professional Profile for devskarim -->
+# Hi, I'm Karimov (devskarim)
 
-<h1 align="center">👋 Assalomu alaykum, I'm <strong>Karimov</strong></h1>
-<p align="center">
-  <em>Full-Stack Developer • Backend Enthusiast • Open Source Contributor</em>
-</p>
+**Full-Stack Developer** (Backend, API, Cloud, AI/ML) from Tashkent, Uzbekistan.
 
-<p align="center">
-  <!-- Clean intro animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Assalomu+alaykum!;Welcome+to+my+GitHub+Profile;Full+Stack+Developer;Always+learning+new+things" alt="Typing animation" />
+---
+
+###  About Me
+-  Hozirgi faoliyat: backend tizimlar, REST/GraphQL API, mikroservislar ustida ishlayapman.
+-  O'qiyotganlarim: Distributed systems, cloud infra (AWS/GCP), machine learning.
+-  Aloqa:
+  - Telegram: [@krmv772](https://t.me/krmv772)
+  - Email: [devizzatillo@gmail.com](mailto:devizzatillo@gmail.com)
+
+---
+
+###  Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/devskarim)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/krmv772)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devizzatillo@gmail.com)
+
+---
+
+###  Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,fastapi,django,postgres,react,nodejs,git,github,docker&perline=8" alt="Tech icons"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+###  GitHub Stats
 <p align="center">
-  <a href="https://github.com/devskarim"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://t.me/krmv772"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:devizzatillo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="360" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devskarim&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="240" />
 </p>
 
 ---
 
-## 🧰 Tech Stack
+###  Contribution Streak
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,react,nodejs,postgres,mysql,mongodb,git,github,docker,linux&perline=8" />
+  <img src="https://streak-stats.demolab.com?user=devskarim&theme=github-dark-blue&hide_border=true" alt="Streak Stats" width="600"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devskarim&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p>
+###  Featured Repositories
+| Repo | Description |
+|------|-------------|
+| [YourRepo1](https://github.com/devskarim/YourRepo1) | Short desc. |
+| [YourRepo2](https://github.com/devskarim/YourRepo2) | Short desc. |
+| [YourRepo3](https://github.com/devskarim/YourRepo3) | Short desc. |
+
+*(GitHub avtomatik tarzda "Popular repositories" bo’limini ko’rsatadi.)*
 
 ---
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devskarim&theme=github-dark-blue&hide_border=true" />
-</p>
+_Submitted with ❤️ by [devskarim](https://github.com/devskarim)_
 
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devskarim&theme=onestar&margin-w=10&margin-h=10&no-bg=true" />
-</p>
-
----
-
-## ✨ About Me
-- 🌱 O‘rganayapman: **AI/ML, scalable backend, and cloud technologies**  
-- 🚀 Menga yoqadi: **clean architecture, open-source contribution, and automation**  
-- ⚡ Maqsad: **professional & impactful software engineer** bo‘lish  
-
----
-
-<p align="center">
-  <sub>⭐ From <a href="https://github.com/devskarim">devskarim</a></sub>
-</p>
