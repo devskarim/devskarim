@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <!-- Hero image - professional and stylish -->
-  <img src="https://images.unsplash.com/photo-1581092335528-9931c95f0d15?fit=crop&w=900&q=80" alt="Hero Image" width="700" style="border-radius:16px;" />
+  <!-- Hero image -->
+  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?fit=crop&w=900&q=80" alt="Hero Image" width="700" style="border-radius:16px;" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 - 🔭 Backend va API tizimlarida ishlab chiqaman  
 - 🌱 Hozirda o‘rganayapman: **Cloud, System Design, AI/ML**  
 - ⚡ Men uchun eng muhimi: **Clean code, Open-source, Continuous Learning**  
-- 🎯 Goal: **Professional & impactful software engineer**
+- 🎯 Maqsad: **Professional & impactful software engineer**
 
 ---
 
@@ -60,13 +60,19 @@
 
 ## 🖼 Portfolio / Highlights
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1612831660557-0ad68140f0d6?fit=crop&w=300&q=80" alt="Project 1" style="margin:5px;border-radius:12px;" />
-  <img src="https://images.unsplash.com/photo-1521790797524-b2497295b8a0?fit=crop&w=300&q=80" alt="Project 2" style="margin:5px;border-radius:12px;" />
-  <img src="https://images.unsplash.com/photo-1602526212307-7a3fded8c915?fit=crop&w=300&q=80" alt="Project 3" style="margin:5px;border-radius:12px;" />
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?fit=crop&w=300&q=80" alt="Project 1" style="margin:5px;border-radius:12px;" />
+  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231?fit=crop&w=300&q=80" alt="Project 2" style="margin:5px;border-radius:12px;" />
+  <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?fit=crop&w=300&q=80" alt="Project 3" style="margin:5px;border-radius:12px;" />
 </p>
 
 ---
 
+## 🚀 Featured Projects
+| Project | Description |
+|---------|-------------|
+| [E-Commerce API](https://github.com/devskarim/ecommerce-api) | Scalable backend API with Django & DRF |
+| [Portfolio Website](https://github.com/devskarim/portfolio) | Personal website with React + Tailwind |
+| [AI Tools](https://github.com/devskarim/ai-tools) | Collection of ML/AI scripts & models |
 
 ---
 
