@@ -4,40 +4,28 @@
 </p>
 
 <h1 align="center">👾 Assalomu alaykum, I'm <span style="color:#00fff7;">KARIMOV</span> ⚡</h1>
-<h3 align="center">🚀 Cyberpunk Dev | AI Enthusiast | Meme Engineer</h3>
+<h3 align="center">🚀 Cyberpunk Developer | AI Enthusiast | Future Builder</h3>
 
 ---
 
-<!-- MEME SECTION -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
-</p>
-
----
-
-## 🦾 About Me
+## 🧑‍💻 About Me
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
 
 - 🌌 Cyberpunk ruhidagi **Full Stack Dev**  
-- 🤖 AI & Machine Learning tarafdori  
-- 🎨 Kodingni faqat ishlash uchun emas, **san’at sifatida** yozaman  
-- 🎬 Memes = hayot, Code = qonim  
+- 🤖 AI, ML va Data tarafdori  
+- 🚀 Innovatsiyalar orqali kelajak quruvchi  
+- 🎯 Maqsadim: **global darajada ilovalar yaratish**
 
 ---
 
-## ⚡ My Cyber Stack
+## ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,python,django,flask,mysql,postgres,mongodb,docker,git,github,linux,aws,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-</p>
-
 ---
 
-## 📊 GitHub Matrix
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=radical&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devskarim&theme=radical&hide_border=true" height="165"/>
@@ -49,26 +37,24 @@
 
 ---
 
-## 🎭 Meme Zone
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
+  <img src="https://raw.githubusercontent.com/devskarim/devskarim/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://t.me/yourusername"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://media.giphy.com/media/10bKPDUM5H7m7u/giphy.gif" width="80"></a>
-  <a href="https://github.com/devskarim"><img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="80"></a>
+  <a href="https://t.me/yourusername"><img src="https://skillicons.dev/icons?i=telegram" width="50"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="https://github.com/devskarim"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
 </p>
 
 ---
 
-<!-- CYBERPUNK FOOTER -->
+<!-- FUTURISTIC FOOTER -->
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
 </p>
