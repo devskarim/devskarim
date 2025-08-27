@@ -1,20 +1,20 @@
-<!-- CYBERPUNK BANNER -->
+<!-- Futuristic DEV Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/banner.png" width="100%"/>
 </p>
 
-<h1 align="center">👾 Assalomu alaykum, I'm <span style="color:#00fff7;">KARIMOV</span> ⚡</h1>
-<h3 align="center">🚀 Cyberpunk Developer | AI Enthusiast | Future Builder</h3>
+<h1 align="center">👋 Assalomu alaykum, I'm <span style="color:#00fff7;">KARIMOV</span></h1>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Cyberpunk Coder</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
 
-- 🌌 Cyberpunk ruhidagi **Full Stack Dev**  
-- 🤖 AI, ML va Data tarafdori  
-- 🚀 Innovatsiyalar orqali kelajak quruvchi  
-- 🎯 Maqsadim: **global darajada ilovalar yaratish**
+- 🔥 Coding = Art + Logic  
+- 🤖 Passion: **AI, ML, and futuristic tech**  
+- 🚀 Always building, always learning  
+- 🎯 Goal: make projects that **inspire & scale**  
 
 ---
 
@@ -54,7 +54,6 @@
 
 ---
 
-<!-- FUTURISTIC FOOTER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
