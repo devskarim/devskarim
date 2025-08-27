@@ -1,6 +1,6 @@
 <!-- CYBERPUNK BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal1X3nVdW/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%"/>
 </p>
 
 <h1 align="center">👾 Assalomu alaykum, I'm <span style="color:#00fff7;">KARIMOV</span> ⚡</h1>
@@ -10,14 +10,14 @@
 
 <!-- MEME SECTION -->
 <p align="center">
-  <img src="https://i.imgur.com/A2e6pDj.gif" width="400"/>
-  <img src="https://i.imgur.com/3Y5wq5U.gif" width="400"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
 </p>
 
 ---
 
 ## 🦾 About Me
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
 
 - 🌌 Cyberpunk ruhidagi **Full Stack Dev**  
 - 🤖 AI & Machine Learning tarafdori  
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -51,9 +51,9 @@
 
 ## 🎭 Meme Zone
 <p align="center">
-  <img src="https://i.imgur.com/22l2O7K.gif" width="250"/>
-  <img src="https://i.imgur.com/tJqzEql.gif" width="250"/>
-  <img src="https://i.imgur.com/o7Q7R9l.gif" width="250"/>
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
 </p>
 
 ---
@@ -70,5 +70,5 @@
 
 <!-- CYBERPUNK FOOTER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3og0INyCmHlNylks9O/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
 </p>
