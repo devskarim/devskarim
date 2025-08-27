@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/JP5ZtY6.gif" alt="Welcome Banner" width="100%" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Welcome Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00FF00;">Karimov</span></h1>
@@ -10,7 +10,7 @@
 
 <!-- ABOUT ME -->
 ## 💫 About Me
-<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
 - 🔭 Currently building **awesome apps & AI projects**  
 - 🌱 Exploring **Web 3.0, Machine Learning & Cloud**  
@@ -22,9 +22,9 @@
 <!-- TECH STACK -->
 ## 🛠 Tech Arsenal
 <p align="center">
-  <img src="https://i.imgur.com/TkV8J3g.gif" width="70" /> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,nodejs,express,python,django,flask,fastapi,mysql,postgres,mongodb,git,github,docker,linux,aws,vscode,figma" />
-  <img src="https://i.imgur.com/TkV8J3g.gif" width="70" /> 
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="80" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,express,python,django,flask,fastapi,mysql,postgres,mongodb,git,github,docker,linux,aws,vscode,figma" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="80" />
 </p>
 
 ---
@@ -53,15 +53,23 @@
 <!-- CONNECT -->
 ## 🌍 Connect with me
 <p align="center">
-  <a href="https://t.me/yourusername"><img src="https://i.imgur.com/VpF3e5S.gif" width="100"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://i.imgur.com/HX5ZtZy.gif" width="100"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://i.imgur.com/tS3nVxH.gif" width="100"/></a>
-  <a href="https://github.com/devskarim"><img src="https://i.imgur.com/tM2aVfu.gif" width="100"/></a>
+  <a href="https://t.me/yourusername">
+    <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="100"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://media.giphy.com/media/6VKHB37Vj8xsE/giphy.gif" width="100"/>
+  </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://media.giphy.com/media/j4Yt2QxvQmD9y/giphy.gif" width="100"/>
+  </a>
+  <a href="https://github.com/devskarim">
+    <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"/>
+  </a>
 </p>
 
 ---
 
 <!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/kdKhgx6.gif" alt="Footer" width="100%" />
+  <img src="https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif" alt="Footer" width="100%" />
 </p>
