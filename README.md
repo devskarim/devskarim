@@ -1,32 +1,34 @@
-<!-- Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,100:302b63,200:24243e&text=Assalomu%20Alaykum!%20I'm%20KARIMOV👨‍💻&fontSize=40&fontColor=00fff7&animation=fadeIn&fontAlignY=40)
+<!-- 🔥 Neon Cyberpunk Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff00ff,50:00fff7,100:8a2be2&text=🚀%20KARIMOV%20-%20Neon%20Dev%20👨‍💻&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-<!-- Badges -->
+<!-- ⚡ Neon Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Cyberpunk%20Dev-ff00ff?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20AI-00f7ff?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Lives-Uzbekistan-302b63?style=for-the-badge&logo=google-earth" />
+  <img src="https://img.shields.io/badge/⚡%20FullStack-Dev-ff00ff?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖%20AI-Engineer-00fff7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌍%20From-Uzbekistan-8a2be2?style=for-the-badge&logo=google-earth&logoColor=white" />
 </p>
 
 ---
 
-## ⚡ About Me
-Name: Karimov  
-Role: Full-Stack Dev | AI Enthusiast 🤖  
-Hobby: Hacking the matrix, playing with codes 💻  
-Current Mission: Build futuristic apps 🚀  
+## 🌌 About Me
+
+🚀 Name: Karimov  
+💻 Role: Full-Stack Dev | AI Enthusiast 🤖  
+🎨 Style: Neon Cyberpunk Developer  
+🎯 Goal: Building futuristic apps and AIs 🌐  
 🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,django,flask,cpp,java,mysql,git,github,linux" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=radical&hide_border=true" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=devskarim&theme=radical&hide_border=true" height="150"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,django,flask,cpp,java,mysql,git,github,linux&theme=dark" /> </p>
+📊 GitHub Stats (Neon Mode)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=radical&hide_border=true&title_color=ff00ff&icon_color=00fff7&text_color=ffffff&bg_color=0d1117" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=devskarim&theme=radical&hide_border=true&ring=ff00ff&fire=00fff7&currStreakLabel=ffffff" height="160"/> </p>
 🚀 Featured Projects
-🏆 Portfolio Website – Cyberpunk 3D personal portfolio
+🌐 Portfolio Website
 
-⚙️ AI Library – A deep learning based image recognition system
+📱 AI Chatbot – Neon Style 🤖
 
-🎮 Game Engine – 2D game engine built from scratch
+🛠 Cyberpunk Tools – Coming Soon...
 
 🐍 Snake Animation
 
-🌐 Let's Connect
-<p align="center"> <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+
+⚡ Quote of the Day
+“Code is the paintbrush, and the future is my canvas.”
