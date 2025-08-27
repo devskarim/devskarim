@@ -14,10 +14,10 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=devskarimx&style=for-the-badge&color=667eea&label=Profile+Views&labelColor=764ba2)](https://github.com/devskarimx)
-[![Followers](https://img.shields.io/github/followers/devskarimx?style=for-the-badge&color=f093fb&labelColor=667eea&logo=github)](https://github.com/devskarimx?tab=followers)
-[![Stars](https://img.shields.io/github/stars/devskarimx?style=for-the-badge&color=00ff88&labelColor=764ba2&logo=github)](https://github.com/devskarimx)
-[![Repositories](https://img.shields.io/badge/Repositories-25+-ff6b6b?style=for-the-badge&logo=github&labelColor=4ecdc4)](https://github.com/devskarimx?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=devskarim&style=for-the-badge&color=667eea&label=Profile+Views&labelColor=764ba2)](https://github.com/devskarim)
+[![Followers](https://img.shields.io/github/followers/devskarim?style=for-the-badge&color=f093fb&labelColor=667eea&logo=github)](https://github.com/devskarim?tab=followers)
+[![Stars](https://img.shields.io/github/stars/devskarim?style=for-the-badge&color=00ff88&labelColor=764ba2&logo=github)](https://github.com/devskarim)
+[![Repositories](https://img.shields.io/badge/Repositories-25+-ff6b6b?style=for-the-badge&logo=github&labelColor=4ecdc4)](https://github.com/devskarim?tab=repositories)
 
 </div>
 
@@ -36,58 +36,27 @@
 </div>
 
 ```python
-class IzzatullohKarimov:
-    """
-    🐍 Python Developer | Code Enthusiast | Problem Solver
-    ====================================================
-    """
-    
-    def __init__(self):
-        self.personal_info = {
-            "name": "Izzatulloh Karimov",
-            "role": "🐍 Python Developer",
-            "status": "🌱 Learning & Building",
-            "location": "🌍 Remote",
-            "passion": "💻 Transforming ideas into elegant solutions",
-            "motto": "Code with purpose, build with passion"
-        }
-        
-        self.tech_stack = {
-            "primary": "🐍 Python",
-            "learning": [
-                "Django", "FastAPI", "Flask",
-                "PostgreSQL", "Docker", "Git",
-                "HTML/CSS", "JavaScript", "React"
-            ],
-            "tools": [
-                "VS Code", "PyCharm", "Git",
-                "Linux", "Docker", "Postman"
-            ]
-        }
-        
-        self.current_focus = [
-            "🎯 Mastering Python fundamentals",
-            "🚀 Building real-world projects", 
-            "📚 Learning web development",
-            "🤝 Contributing to open source"
-        ]
-    
-    def get_current_status(self):
-        return {
-            "learning": "Advanced Python concepts",
-            "building": "Portfolio projects",
-            "exploring": "Web frameworks",
-            "goal": "Becoming a full-stack developer"
-        }
-    
-    def daily_routine(self):
-        return [
-            "☕ Morning coffee + code review",
-            "💻 Deep learning sessions",
-            "🔧 Hands-on project work", 
-            "📖 Reading tech articles",
-            "🌟 Contributing to community"
-        ]
+# About Me - Izzatulloh Karimov
+name = "Izzatulloh Karimov"
+role = "🐍 Python Developer"
+status = "🌱 Learning & Building"
+location = "🌍 Remote"
+
+# My Tech Stack
+python_skills = ["Variables", "Functions", "Classes", "File Handling"]
+learning_now = ["Django", "FastAPI", "PostgreSQL", "Git"]
+tools = ["VS Code", "Linux", "Docker"]
+
+# Current Goals
+goals = [
+    "🎯 Master Python basics",
+    "🚀 Build cool projects", 
+    "📚 Learn web development",
+    "🤝 Help other developers"
+]
+
+print(f"Hi! I'm {name}, a {role}")
+print("Let's code something amazing together! 🚀")
 ```
 
 <div align="center">
@@ -99,7 +68,7 @@ class IzzatullohKarimov:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7320d7.gif" width="100">
+  <img src="/images/JavaScript.jpg" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
@@ -174,8 +143,14 @@ frameworks = {
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devskarimx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devskarimx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devskarim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb"/></to_replace>
+</Editor.edit_file_by_replace>
+
+<Editor.edit_file_by_replace>
+<file_name>README.md</file_name>
+<to_replace>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devskarimx&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=00ff88&currStreakLabel=667eea&sideLabels=f093fb&currStreakNum=00ff88&dates=764ba2&sideNums=667eea" alt="GitHub Streak" /></to_replace>
+<new_content>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devskarim&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=00ff88&currStreakLabel=667eea&sideLabels=f093fb&currStreakNum=00ff88&dates=764ba2&sideNums=667eea" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -183,7 +158,7 @@ frameworks = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devskarimx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f093fb&line=667eea&point=00ff88" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devskarim&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f093fb&line=667eea&point=00ff88" width="100%"/>
 </div>
 
 <div align="center">
@@ -197,35 +172,30 @@ frameworks = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devskarimx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,PullRequest,MultiLanguage,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devskarim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,PullRequest,MultiLanguage,Repositories" />
 </div>
 
 ### **🎯 Learning Milestones**
 ```python
-achievements = {
-    "2024": {
-        "python_fundamentals": "✅ Mastered basics",
-        "first_project": "✅ Built calculator app",
-        "web_development": "🔥 Currently learning Django",
-        "open_source": "🎯 First contribution made",
-        "database": "📚 Learning PostgreSQL"
-    },
-    
-    "skills_unlocked": [
-        "🐍 Python syntax mastery",
-        "🔧 Problem-solving approach",
-        "📝 Clean code principles",
-        "🐛 Debugging techniques",
-        "📚 Documentation writing"
-    ],
-    
-    "next_targets": [
-        "🚀 Deploy first web application",
-        "🤝 Contribute to major open source project",
-        "📱 Learn mobile development",
-        "☁️ Master cloud technologies"
-    ]
-}
+# What I've learned so far
+completed = [
+    "✅ Python basics",
+    "✅ First calculator app", 
+    "✅ Problem solving",
+    "✅ Clean code writing"
+]
+
+# Currently working on
+learning_now = "🔥 Django web development"
+
+# Next goals
+next_goals = [
+    "🚀 Deploy my first web app",
+    "🤝 Contribute to open source",
+    "📱 Learn mobile development"
+]
+
+print("Progress: Learning every day! 📈")
 ```
 
 <div align="center">
@@ -237,16 +207,16 @@ achievements = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7320d7.gif" width="80">
+  <img src="/images/JavaScript.jpg" width="80">
 </div>
 
 <div align="center">
 
-[![Python Learning](https://github-readme-stats.vercel.app/api/pin/?username=devskarimx&repo=python-mastery&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88)](https://github.com/devskarimx/python-mastery)
-[![Web App](https://github-readme-stats.vercel.app/api/pin/?username=devskarimx&repo=django-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88)](https://github.com/devskarimx/django-portfolio)
+[![Python Learning](https://github-readme-stats.vercel.app/api/pin/?username=devskarim&repo=python-mastery&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88)](https://github.com/devskarim/python-mastery)
+[![Web App](https://github-readme-stats.vercel.app/api/pin/?username=devskarim&repo=django-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88)](https://github.com/devskarim/django-portfolio)
 
-[![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=devskarimx&repo=data-visualization&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88)](https://github.com/devskarimx/data-visualization)
-[![API Project](https://github-readme-stats.vercel.app/api/pin/?username=devskarimx&repo=fastapi-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88)](https://github.com/devskarimx/fastapi-backend)
+[![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=devskarim&repo=data-visualization&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88)](https://github.com/devskarim/data-visualization)
+[![API Project](https://github-readme-stats.vercel.app/api/pin/?username=devskarim&repo=fastapi-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=f093fb&icon_color=00ff88)](https://github.com/devskarim/fastapi-backend)
 
 </div>
 
@@ -257,59 +227,24 @@ achievements = {
 </div>
 
 ```python
-# My 2024 Learning Roadmap
-learning_journey = {
-    "phase_1_foundations": {
-        "status": "✅ Completed",
-        "skills": [
-            "Python syntax and fundamentals",
-            "Object-oriented programming",
-            "File handling and modules",
-            "Error handling and debugging"
-        ],
-        "duration": "3 months"
-    },
-    
-    "phase_2_web_development": {
-        "status": "🔥 In Progress",
-        "skills": [
-            "Django framework mastery",
-            "Database design with PostgreSQL",
-            "RESTful API development",
-            "Frontend integration"
-        ],
-        "current_focus": "Building full-stack applications"
-    },
-    
-    "phase_3_advanced": {
-        "status": "🎯 Next Up",
-        "skills": [
-            "Microservices architecture",
-            "Docker containerization", 
-            "Cloud deployment (AWS/GCP)",
-            "Advanced testing strategies"
-        ]
-    },
-    
-    "phase_4_specialization": {
-        "status": "🌟 Future Goals",
-        "options": [
-            "Machine Learning & AI",
-            "DevOps & Infrastructure",
-            "Mobile Development",
-            "Blockchain Technology"
-        ]
-    }
-}
+# My Learning Path 2024
+print("🚀 My Python Journey")
 
-daily_coding_routine = {
-    "morning": "☕ Review yesterday's code",
-    "deep_work": "🧠 2-3 hours focused coding",
-    "practice": "💻 Algorithm challenges",
-    "learning": "📚 New concepts & tutorials",
-    "building": "🔨 Personal project work",
-    "community": "🤝 Open source contributions"
-}
+# Phase 1: Basics (Completed ✅)
+basics = ["Variables", "Functions", "Loops", "File handling"]
+print("Learned:", basics)
+
+# Phase 2: Web Development (Learning now 🔥)
+web_skills = ["Django", "Databases", "APIs", "HTML/CSS"]
+print("Currently learning:", web_skills)
+
+# Phase 3: Advanced (Next 🎯)
+advanced = ["Docker", "Cloud", "Testing", "Projects"]
+print("Coming next:", advanced)
+
+# Daily routine
+daily_hours = 3
+print(f"I code {daily_hours} hours every day! 💻")
 ```
 
 ## **🎨 CODING ACTIVITY**
@@ -348,30 +283,35 @@ productivity_stats = {
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=667eea&background=0d111700&center=true&vCenter=true&width=700&height=60&lines=💬+Let's+connect+and+build+amazing+things+together!;🤝+Always+open+to+collaborations+and+new+ideas;📧+Feel+free+to+reach+out+for+any+discussions!" alt="Connect Message" />
 </div>
 
-```bash
-# Let's connect and collaborate!
-echo "🚀 Ready to build the future together!"
+```python
+# Let's connect!
+print("🚀 Ready to collaborate and learn together!")
 
-TELEGRAM="https://t.me/krmv772"
-EMAIL="devizzatillo@gmail.com" 
-GITHUB="https://github.com/devskarimx"
-LINKEDIN="https://linkedin.com/in/devskarimx"
-PORTFOLIO="https://devskarimx.dev"
+contacts = {
+    "telegram": "https://t.me/krmv772",
+    "email": "devizzatillo@gmail.com",
+    "github": "https://github.com/devskarim",
+    "linkedin": "https://linkedin.com/in/devskarim"
+}
 
-# Open for:
-COLLABORATION="🤝 Exciting project collaborations"
-MENTORSHIP="📚 Learning from experienced developers"  
-OPEN_SOURCE="🌟 Contributing to meaningful projects"
-NETWORKING="💼 Building professional relationships"
+# I'm open for:
+open_for = [
+    "🤝 Project collaborations",
+    "📚 Learning from others", 
+    "🌟 Open source contributions",
+    "💼 Professional networking"
+]
+
+print("Let's build something amazing! 💻")
 ```
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/💬_Telegram-2CA5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=667eea)](https://t.me/krmv772)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=764ba2)](mailto:devizzatillo@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=f093fb)](https://github.com/devskarimx)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00ff88)](https://linkedin.com/in/devskarimx)
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=667eea)](https://devskarimx.dev)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=f093fb)](https://github.com/devskarim)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00ff88)](https://linkedin.com/in/devskarim)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=667eea)](https://devskarim.dev)
 
 </div>
 
@@ -386,52 +326,41 @@ NETWORKING="💼 Building professional relationships"
 </div>
 
 ```python
-# My 2024 Vision Statement
-vision_2024 = {
-    "professional_growth": {
-        "technical_skills": "Master full-stack development",
-        "soft_skills": "Improve communication & teamwork",
-        "leadership": "Mentor new developers",
-        "impact": "Build solutions that matter"
-    },
-    
-    "project_goals": [
-        "🚀 Launch 3 major web applications",
-        "📱 Create a mobile app with React Native", 
-        "🤖 Explore AI/ML integration in projects",
-        "🌐 Contribute to 5+ open source projects"
-    ],
-    
-    "learning_targets": [
-        "☁️ Master cloud technologies (AWS/GCP)",
-        "🐳 Become proficient in Docker & Kubernetes",
-        "⚡ Learn advanced Python frameworks",
-        "📊 Dive deep into data science"
-    ],
-    
-    "community_involvement": [
-        "✍️ Write technical blog posts",
-        "🎤 Speak at local tech meetups",
-        "👥 Build developer community",
-        "🎓 Share knowledge through tutorials"
-    ]
-}
+# My 2024 Goals
+print("🎯 What I want to achieve this year:")
 
-life_motto = """
-💭 "The best time to plant a tree was 20 years ago. 
-    The second best time is now." 
-    
-🌟 Every line of code is a step forward in my journey!
-"""
+projects = [
+    "🚀 Build 3 web apps",
+    "📱 Create mobile app", 
+    "🤖 Try AI/ML projects",
+    "🌐 Contribute to open source"
+]
+
+skills_to_learn = [
+    "☁️ Cloud technologies",
+    "🐳 Docker containers",
+    "⚡ Advanced Python",
+    "📊 Data science basics"
+]
+
+community_goals = [
+    "✍️ Write blog posts",
+    "🎤 Join tech meetups", 
+    "👥 Help other developers",
+    "🎓 Share what I learn"
+]
+
+motto = "Every day I code, I get better! 🌟"
+print(motto)
 ```
 
 ## **🎨 CONTRIBUTION GRAPH**
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devskarimx/devskarimx/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devskarimx/devskarimx/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devskarimx/devskarimx/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="/images/Progress.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="/images/GitHubSnake.jpg">
+    <img alt="github contribution grid snake animation" src="/images/GitHubSnake.jpg">
   </picture>
 </div>
 
