@@ -1,34 +1,57 @@
-<!-- 🔥 Neon Cyberpunk Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff00ff,50:00fff7,100:8a2be2&text=🚀%20KARIMOV%20-%20Neon%20Dev%20👨‍💻&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+<!-- Premium GitHub README -->
 
-<!-- ⚡ Neon Badges -->
+<h1 align="center">🚀 KARIMOV — Premium Developer Portfolio 🚀</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡%20FullStack-Dev-ff00ff?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖%20AI-Engineer-00fff7?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌍%20From-Uzbekistan-8a2be2?style=for-the-badge&logo=google-earth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Python%20%7C%20JS-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web%20Dev-purple?style=for-the-badge&logo=starship" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=rocket" />
 </p>
 
 ---
 
 ## 🌌 About Me
+💎 Premium level full-stack developer  
+🔥 Passionate about **AI, Web, and 3D Portfolio Design**  
+🎯 Always building futuristic, high-performance apps  
 
-🚀 Name: Karimov  
-💻 Role: Full-Stack Dev | AI Enthusiast 🤖  
-🎨 Style: Neon Cyberpunk Developer  
-🎯 Goal: Building futuristic apps and AIs 🌐  
-🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,django,flask,cpp,java,mysql,git,github,linux&theme=dark" /> </p>
-📊 GitHub Stats (Neon Mode)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=radical&hide_border=true&title_color=ff00ff&icon_color=00fff7&text_color=ffffff&bg_color=0d1117" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=devskarim&theme=radical&hide_border=true&ring=ff00ff&fire=00fff7&currStreakLabel=ffffff" height="160"/> </p>
-🚀 Featured Projects
-🌐 Portfolio Website
+---
 
-📱 AI Chatbot – Neon Style 🤖
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,react,django,flask,threejs,linux,git,github,docker" />
+</p>
 
-🛠 Cyberpunk Tools – Coming Soon...
+---
 
-🐍 Snake Animation
+## 🚀 Featured Projects
+✨ **3D Interactive Portfolio** — Bruno Simon style, ultra-modern animations  
+✨ **Bookstore Platform** — Full CRUD system with reviews & premium UI  
+✨ **AI Vision Model** — Classifies animals, insects, humans + age & emotion detection  
+✨ **Betting Demo App** — Inspired by 1xBet with dark-mode premium UI  
 
+---
 
-⚡ Quote of the Day
-“Code is the paintbrush, and the future is my canvas.”
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180" />
+</p>
+
+---
+
+## ⚡ Premium Quote
+> *“Code like a professional, design like an artist, deliver like a legend.”* 🚀  
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-Connect-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Premium-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+<p align="center">🔥 Powered by <b>KARIMOV</b> — Premium Developer ✨</p>
