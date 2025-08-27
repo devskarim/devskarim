@@ -1,81 +1,60 @@
-<!-- README.md - Ultra Premium Animated GitHub Profile for devskarim -->
-
+<!-- CYBERPUNK BANNER -->
 <p align="center">
-  <!-- Typing animation intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=👋+Assalomu+alaykum!;Men+Karimov+(devskarim);Full+Stack+Developer;Backend+%7C+AI%2FML+Learner;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%"/>
 </p>
 
-<p align="center">
-  <!-- Hero image -->
-  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?fit=crop&w=900&q=80" alt="Hero Image" width="700" style="border-radius:16px;" />
-</p>
+<h1 align="center">👾 Assalomu alaykum, I'm <span style="color:#00fff7;">KARIMOV</span> ⚡</h1>
+<h3 align="center">🚀 Cyberpunk Developer | AI Enthusiast | Future Builder</h3>
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/devskarim"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://t.me/krmv772"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:devizzatillo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## 🧑‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+
+- 🌌 Cyberpunk ruhidagi **Full Stack Dev**  
+- 🤖 AI, ML va Data tarafdori  
+- 🚀 Innovatsiyalar orqali kelajak quruvchi  
+- 🎯 Maqsadim: **global darajada ilovalar yaratish**
 
 ---
 
-## ✨ About Me
-- 🔭 Backend va API tizimlarida ishlab chiqaman  
-- 🌱 Hozirda o‘rganayapman: **Cloud, System Design, AI/ML**  
-- ⚡ Men uchun eng muhimi: **Clean code, Open-source, Continuous Learning**  
-- 🎯 Maqsad: **Professional & impactful software engineer**  
-
----
-
-## 🧰 Tech Stack
+## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,js,react,nodejs,postgres,mysql,mongodb,git,github,docker,linux,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,python,django,flask,mysql,postgres,mongodb,docker,git,github,linux,aws,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=radical&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devskarim&layout=compact&theme=radical&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devskarim&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devskarim&theme=matrix&no-frame=true&margin-w=15&row=1"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devskarim&theme=radical&hide_border=false" alt="Contribution Streak" width="600"/>
+  <img src="https://raw.githubusercontent.com/devskarim/devskarim/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devskarim&theme=radical&no-bg=false&margin-w=10&margin-h=10" />
+  <a href="https://t.me/yourusername"><img src="https://skillicons.dev/icons?i=telegram" width="50"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="https://github.com/devskarim"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
 </p>
 
 ---
 
-## 🖼 Portfolio / Highlights
+<!-- FUTURISTIC FOOTER -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581092335528-9931c95f0d15?fit=crop&w=300&q=80" alt="Project 1" style="margin:5px;border-radius:12px;" />
-  <img src="https://images.unsplash.com/photo-1612831660557-0ad68140f0d6?fit=crop&w=300&q=80" alt="Project 2" style="margin:5px;border-radius:12px;" />
-  <img src="https://images.unsplash.com/photo-1521790797524-b2497295b8a0?fit=crop&w=300&q=80" alt="Project 3" style="margin:5px;border-radius:12px;" />
-</p>
-
----
-
-## 🚀 Featured Projects
-| Project | Description |
-|---------|-------------|
-| [E-Commerce API](https://github.com/devskarim/ecommerce-api) | Scalable backend API with Django & DRF |
-| [Portfolio Website](https://github.com/devskarim/portfolio) | Personal website with React + Tailwind |
-| [AI Tools](https://github.com/devskarim/ai-tools) | Collection of ML/AI scripts & models |
-
----
-
-<p align="center">
-  <sub>⭐ From <a href="https://github.com/devskarim">devskarim</a> | Made with ❤️ and ultra-premium design</sub>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
 </p>
