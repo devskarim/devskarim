@@ -191,6 +191,9 @@ for period, goals in learning_goals.items():
   </a>
 </div>
 
+Support: [Buy Me a Coffee](https://www.buymeacoffee.com/karimov) ☕
+
+
 <!-- Beautiful Separator -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
