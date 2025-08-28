@@ -47,7 +47,6 @@ class IzzatullohKarimov:
         self.languages = ["Python 🐍", "JavaScript 💛", "SQL 🗄️"]
         self.learning = ["FastAPI ⚡", "React ⚛️", "Docker 🐳"]
         self.interests = ["Web Development", "API Design", "System Architecture"]
-        self.motto = "Code with passion, debug with patience! 💪"
     
     def say_hello(self):
         print("Thanks for visiting my profile! Let's connect! 🤝")
