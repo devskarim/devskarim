@@ -108,8 +108,10 @@ dev.say_hello()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devskarim&theme=redical&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devskarim&theme=radical&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&area=true&hide_border=true" width="100%"/>
 </div>
+
+
 
 <!-- Beautiful Separator -->
 <div align="center">
