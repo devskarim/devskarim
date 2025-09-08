@@ -1,236 +1,198 @@
 <div align="center">
-  
-  <!-- Premium Header with Glassmorphism -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Assalomu%20Alaykum!%20👋&desc=I'm%20Izzatulloh%20Karimov%20-%20Python%20Developer&descAlignY=75&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn&fontAlign=50&color=gradient&gradient=667eea,764ba2,f093fb" />
-  
-  <!-- Beautiful Typing Animation -->
-  <div align="center" style="margin: -50px 0 30px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=🚀+Building+Amazing+Web+Applications;💎+Python+%7C+FastAPI+%7C+Modern+Backend;🌟+Passionate+About+Clean+Code;⚡+Always+Learning+New+Technologies" alt="Typing Animation" />
-  </div>
 
-  <!-- Modern Info Cards -->
-  <div align="center">
-    <img src="https://img.shields.io/badge/🏠_Andijan,_Uzbekistan-667eea?style=for-the-badge&logo=home&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/💻_Python_Developer-2ea44f?style=for-the-badge&logo=python&logoColor=white" alt="Role" />
-    <img src="https://img.shields.io/badge/🎯_Backend_Focus-ff6b6b?style=for-the-badge&logo=server&logoColor=white" alt="Focus" />
-    <img src="https://img.shields.io/badge/🌱_Always_Learning-ffd93d?style=for-the-badge&logo=lightbulb&logoColor=black" alt="Learning" />
-  </div>
+<!-- Ultra Premium Animated Header for Boys -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=⚡%20Assalomu%20Alaykum!%20⚡&desc=Izzatulloh%20Karimov%20🚀%20Python%20Developer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&stroke=ffffff&strokeWidth=3" />
 
-  <!-- Premium Counters -->
-  <div align="center" style="margin: 20px 0;">
-    <img src="https://komarev.com/ghpvc/?username=devskarim&style=for-the-badge&color=667eea&label=👀+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/👥_Followers-Growing-f093fb?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-    <img src="https://img.shields.io/badge/⭐_Learning-Daily-4cc9f0?style=for-the-badge&logo=star&logoColor=white" alt="Learning" />
-  </div>
-  
+<!-- Cool Boy Developer Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=4FACFE&center=true&vCenter=true&width=750&lines=⚡+Building+Epic+Web+Applications+⚡;🚀+Python+%7C+FastAPI+%7C+Clean+Code+🚀;💎+Crafting+Digital+Solutions+💎;🔥+Always+Coding%2C+Always+Growing+🔥" alt="Cool Typing Animation" />
+
+<!-- Cool Status Badges -->
+<div style="margin: 30px 0;">
+<img src="https://img.shields.io/badge/🏠_Andijan,_Uzbekistan_🇺🇿-4FACFE?style=for-the-badge&logo=home&logoColor=white&labelColor=667eea" />
+<img src="https://img.shields.io/badge/💻_Python_Developer_🐍-00F2FE?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea" />
+<img src="https://img.shields.io/badge/🎯_Backend_Expert_⚡-764ba2?style=for-the-badge&logo=server&logoColor=white&labelColor=667eea" />
+<img src="https://img.shields.io/badge/🌱_Tech_Explorer_🚀-32CD32?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=667eea" />
 </div>
 
-<!-- Beautiful Separator -->
+<!-- Cool Counter -->
+<img src="https://komarev.com/ghpvc/?username=devskarim&style=for-the-badge&color=4FACFE&label=👀+VISITORS&labelColor=667eea" />
+
+</div>
+
+<!-- Working Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
 ## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4000&pause=1500&color=f093fb&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+world!+🌍;I'm+a+passionate+developer+🔥;Let's+build+something+amazing!+✨" alt="About Animation" />
-</div>
+<table align="center">
+<tr>
+<td align="center" width="45%">
 
-<img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- 🎮 ADD YOUR CUTE BOY WITH PINK COMPUTERS IMAGE HERE! 🎮 -->
+<!-- Replace this URL with your pink computer boy image -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cool Boy Developer Animation" style="border-radius: 15px; box-shadow: 0 0 20px rgba(79, 172, 254, 0.3);" />
+
+**🔥 Cool Facts:**
+- 🎮 Love building awesome projects
+- ☕ Fueled by coffee and curiosity  
+- 🚀 Always pushing boundaries
+- 💎 Passionate about clean code
+- 🌟 Making the web better, one line at a time
+
+</td>
+<td align="center" width="55%">
 
 ```python
-class IzzatullohKarimov:
+class CoolDeveloper:
     def __init__(self):
-        self.name = "Izzatulloh Karimov"
-        self.role = "Python Developer"
-        self.location = "Andijan, Uzbekistan 🇺🇿"
-        self.languages = ["Python 🐍", "JavaScript 💛", "SQL 🗄️"]
-        self.learning = ["FastAPI ⚡", "React ⚛️", "Docker 🐳"]
-        self.interests = ["Web Development", "API Design", "System Architecture"]
+        self.name = "Izzatulloh Karimov 🚀"
+        self.role = "Python Expert 💻"
+        self.location = "Andijan, UZ 🏠"
+        self.vibe = "Always Coding 😎"
+        self.superpower = "Turning Ideas into Apps ⚡"
+        self.learning = ["FastAPI 🚀", "React ⚛️", "Docker 🐳"]
     
-    def say_hello(self):
-        print("Thanks for visiting my profile! Let's connect! 🤝")
+    def get_skills(self):
+        return {
+            "backend": ["Python 🐍", "FastAPI ⚡", "Django 🎯"],
+            "frontend": ["JavaScript 💛", "React 🔥", "CSS 🎨"],
+            "database": ["PostgreSQL 🐘", "MongoDB 🍃"],
+            "tools": ["Git 🌿", "Docker 🐳", "VS Code 💜"]
+        }
+    
+    def daily_grind(self):
+        return "☕ Coffee → 💻 Code → 🚀 Deploy → 🔄 Repeat"
 
-dev = IzzatullohKarimov()
-dev.say_hello()
+me = CoolDeveloper()
+print(f"Current mode: {me.daily_grind()}")
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
-<!-- Beautiful Separator -->
+<!-- Working Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
-## 🛠️ Technology Stack
+## ⚡ My Tech Arsenal
 
-<div align="center">
-  
-  ### 🚀 Programming Languages
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-  ### ⚡ Frameworks & Libraries
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  
-  ### 🗄️ Databases & Cloud
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  
-  ### 🛠️ Tools & DevOps
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 20px; border-radius: 15px; margin: 20px 0;">
+
+### 🚀 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python_🐍-4FACFE?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea)
+![FastAPI](https://img.shields.io/badge/FastAPI_⚡-00F2FE?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=667eea)
+![JavaScript](https://img.shields.io/badge/JavaScript_💛-764ba2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=667eea)
+![React](https://img.shields.io/badge/React_⚛️-32CD32?style=for-the-badge&logo=react&logoColor=white&labelColor=667eea)
+![Django](https://img.shields.io/badge/Django_🎯-9370DB?style=for-the-badge&logo=django&logoColor=white&labelColor=667eea)
+
+### 🛠️ Tools & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_🐘-4FACFE?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=667eea)
+![MongoDB](https://img.shields.io/badge/MongoDB_🍃-00F2FE?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=667eea)
+![Docker](https://img.shields.io/badge/Docker_🐳-764ba2?style=for-the-badge&logo=docker&logoColor=white&labelColor=667eea)
+![Git](https://img.shields.io/badge/Git_🌿-32CD32?style=for-the-badge&logo=git&logoColor=white&labelColor=667eea)
+![VS Code](https://img.shields.io/badge/VS_Code_💜-9370DB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=667eea)
 
 </div>
 
-<!-- Beautiful Separator -->
+<!-- Working Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=f093fb&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devskarim&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=devskarim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FACFE&text_color=ffffff&icon_color=00F2FE&border_radius=15"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devskarim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FACFE&text_color=ffffff&border_radius=15"/>
 </div>
 
+<div align="center" style="margin: 20px 0;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devskarim&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FACFE&ring=00F2FE&fire=764ba2&currStreakLabel=4FACFE&sideLabels=ffffff&currStreakNum=00F2FE&border_radius=15" />
+</div>
+
+<!-- Activity Graph with working URL -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devskarim&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=764ba2&currStreakLabel=667eea&sideLabels=ffffff&currStreakNum=f093fb&dates=ffffff&sideNums=667eea" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devskarim&theme=react-dark&bg_color=0D1117&color=4FACFE&line=00F2FE&point=764ba2&area=true&hide_border=true" width="95%"/>
 </div>
 
+<!-- Working Divider -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devskarim&theme=radical&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&area=true&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
+## 🎯 2025 Mission Goals
 
+<div align="center" style="background: linear-gradient(135deg, #0D1117, #667eea); padding: 25px; border-radius: 20px; margin: 20px;">
 
-<!-- Beautiful Separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🎯 Learning Journey 2025
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=2000&color=764ba2&center=true&vCenter=true&width=600&lines=🔥+Currently+mastering+FastAPI;🌐+Building+full-stack+applications;☁️+Exploring+cloud+technologies;🚀+Growing+every+single+day!" alt="Learning Animation" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1500&color=4FACFE&center=true&vCenter=true&width=600&lines=⚡+Mastering+FastAPI+Like+a+Boss+⚡;🚀+Building+Next-Gen+Applications+🚀;☁️+Conquering+Cloud+Technologies+☁️;🔥+Leveling+Up+Every+Single+Day+🔥!" />
 
 ```python
-# My Learning Roadmap 🗺️
-learning_goals = {
-    "🔴 Q1 2025": {
-        "FastAPI": "Advanced API development & microservices",
-        "React": "Modern frontend with hooks & state management", 
-        "Docker": "Containerization & deployment automation",
-        "status": "🔥 Actively Learning"
+# My 2025 Coding Mission 🎯⚡
+mission = {
+    "⚡ Q1": {
+        "targets": ["FastAPI Mastery 🚀", "React Domination ⚛️", "Docker Skills 🐳"],
+        "status": "🔥 Currently Grinding"
     },
-    "🟡 Q2 2025": {
-        "Cloud": "AWS services & cloud architecture",
-        "Testing": "TDD, pytest & automated testing",
-        "GraphQL": "Modern API query language",
-        "status": "📋 Planned"
+    "🚀 Q2": {
+        "targets": ["AWS Cloud ☁️", "Testing Pro 🧪", "GraphQL Power 💪"],
+        "status": "📋 Mission Planned"
     },
-    "🟢 H2 2025": {
-        "System Design": "Scalable architecture patterns",
-        "DevOps": "CI/CD pipelines & automation",
-        "Open Source": "Contributing to community projects",
-        "status": "🎯 Future Goals"
+    "💎 Q3": {
+        "targets": ["System Design 🏗️", "DevOps Master 🛠️", "Open Source Hero 🌟"],
+        "status": "🎯 Future Objectives"
     }
 }
 
-for period, goals in learning_goals.items():
-    print(f"{period}: {goals['status']}")
+print("⚡ Every bug is just another boss to defeat! ⚡")
 ```
 
-<!-- Beautiful Separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🏆 Skills & Progress
-
+<!-- Working Divider -->
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devskarim&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=764ba2&currStreakLabel=667eea&sideLabels=ffffff&currStreakNum=f093fb&dates=ffffff&sideNums=667eea)](https://git.io/streak-stats)
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 </div>
 
-### 🌟 Development Milestones
-- 🎉 **Python Mastery** - Building robust backend solutions
-- 🚀 **API Development** - RESTful services with FastAPI  
-- 📚 **Continuous Learning** - Always exploring new technologies
-- 🤝 **Problem Solving** - Love tackling complex challenges
+## 🤝 Let's Connect & Build Something Epic!
 
-<!-- Beautiful Separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center" style="background: linear-gradient(135deg, #0D1117, #667eea); padding: 30px; border-radius: 20px; margin: 20px;">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=1200&color=4FACFE&center=true&vCenter=true&width=500&lines=⚡+Always+ready+for+new+challenges!+⚡;🚀+Let's+build+something+amazing+together!+🚀;💻+Open+to+collaborations+%26+projects!+💻" />
+
+<br><br>
+
+<a href="https://t.me/krmv772">
+<img src="https://img.shields.io/badge/💬_Telegram-4FACFE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=667eea" />
+</a>
+<a href="mailto:devizzatillo@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-00F2FE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=667eea" />
+</a>
+<a href="https://github.com/devskarim">
+<img src="https://img.shields.io/badge/🐙_GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea" />
+</a>
+
+<br><br>
+
+<a href="https://www.buymeacoffee.com/karimov">
+<img src="https://img.shields.io/badge/☕_Buy_Me_Coffee-FFD700?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=667eea" height="40" />
+</a>
+
 </div>
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=2000&color=667eea&center=true&vCenter=true&width=600&lines=Always+excited+about+new+projects!;Let's+build+something+incredible+together!;Open+to+collaborations+%26+opportunities!" alt="Connect Animation" />
-</div>
-
-<div align="center">
-  <a href="https://t.me/krmv772">
-    <img src="https://img.shields.io/badge/💬_Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:devizzatillo@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/devskarim">
-    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/karimov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="karimov" /></a></p><br><br>
-
-
-<!-- Beautiful Separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 💫 Daily Inspiration
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d1117&border=true&quote_color=667eea&author_color=f093fb" alt="Quote" />
-</div>
-
-```python
-# My Developer Philosophy 💭
-philosophy = {
-    "mindset": "Growth over perfection 🌱",
-    "approach": "Learn by building 🔨", 
-    "motto": "Code with heart, debug with mind 💝",
-    "belief": "Every bug teaches us something new! 🐛➡️💡"
-}
-
-print("Remember: The best developers are made, not born! 🚀")
-print("Keep coding, keep learning, keep growing! 💪")
-```
 
 ---
 
+<!-- Cool Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=667eea,764ba2,f093fb&height=120&section=footer&animation=fadeIn" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&height=120&section=footer&animation=fadeIn" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=4000&pause=3000&color=667eea&center=true&vCenter=true&width=500&lines=⭐+Thanks+for+visiting+my+profile!;🤝+Let's+connect+and+build+together!;💬+Always+open+to+new+opportunities!" alt="Footer Message" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=2000&color=4FACFE&center=true&vCenter=true&width=400&lines=⚡+Thanks+for+checking+out+my+profile!+⚡;🚀+Let's+build+the+future+together!+🚀;💻+Always+coding%2C+always+improving!+💻" />
 
-<div align="center">
-  <sub>✨ Crafted with ❤️ and lots of ☕ by <strong>Izzatulloh Karimov</strong> | 2025 ✨</sub>
+<br>
+
+<sub>⚡ Built with 💻, ☕ and lots of 🚀 by <strong>Izzatulloh Karimov</strong> | 2025 ⚡</sub>
+
 </div>
